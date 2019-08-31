@@ -1,0 +1,145 @@
+
+  div.main-page {
+    height: 500px;
+    background-image: url("https://www.divessi.com/fileadmin/content_ssi/Website/0_Home/Teaser_Slider/Neu_Teaser_Slider_Pro_3_Desktop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+div.main-page h2 {
+    font-size: 50px;
+    color: white;
+    text-shadow:white;
+
+  
+}
+p.tengah{
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px
+}
+
+  
+  #main {
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    width: 400px;
+    height: 1000px;
+    overflow: scroll;
+  }
+  
+  h1 {
+    
+    color: black;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: Left;
+  }
+  
+  h2 {
+    
+    color:black;
+    font-size: 30px;
+    line-height: 50px;
+    padding: 10px 10px;
+    margin: 10px 10px;
+    text-align: left;
+  }
+h3{
+  border: thick;
+  border-block-end-color: black;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+}
+.Scuba{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    color: black;
+    font-weight: 100;
+    font-size: 22px;
+    line-height: 24px;
+    padding-bottom: 30px;
+    text-align: left;
+    width: 70%;
+    font-family: Georgia;
+  }
+
+
+
+
+/* 
+UNTUK NAVBAR*/
+
+ul {
+    list-style-type: none;
+    margin-left: 520px;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+    height: 50px;
+}
+  
+li {
+    float: left;
+    padding: 5px;
+}
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Hind', sans-serif;
+    border-radius: 30px;
+}
+
+li.different-li {
+    float: right;
+    border-radius: 30px;
+    border-color: rgb(215, 162, 231);
+}
+.footer {
+  text-align: center;
+  background: #263238;
+  color: grey;
+  font-size: 12px;
+  padding: 10px;
+}
+
+.our-works h1 {
+  text-align: center;
+}
+
+hr {
+  width: 150px;
+}
+div.last-section {
+  background-color: rgb(53, 48, 48);
+  width: 100%;
+  float: left;
+}
+
+p.left {
+  float: left;
+  width: 25%;
+  color: white;
+  padding: 35px;
+  line-height: 22px;   
+  font-family: 'Noto Serif', serif;
+}
+
+span.title {
+  font-size: 30px;
+}
+
+iframe {
+  float: right;
+  width: 60%;
+  padding: 50px;
+  height: 400px;
+}
