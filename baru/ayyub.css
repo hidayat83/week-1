@@ -1,0 +1,98 @@
+body {
+    background-image:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v413-sasi-78-crystalbackground_2.jpg?w=400&dpr=1&fit=default&crop=default&auto=format&fm=pjpg&q=75&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.1.2&s=2b23f45164b9b649c69f7c5c8a9c16aa");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   }
+   ul {
+    list-style-type: none;
+    margin-left: 520px;
+    padding: 0;
+    overflow: hidden;
+    
+    height: 50px;
+}
+  
+li {
+    float: left;
+    padding: 5px;
+}
+  
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Hind', sans-serif;
+    border-radius: 30px;
+}
+
+li.different-li {
+    float: right;
+    border-radius: 30px;
+    border-color: rgb(215, 162, 231);
+}
+.logo-danain {
+    width: 90px;
+    height: 50px;
+    float: left;
+    margin-top: 0;
+    margin-left: 20px;
+  }
+   
+   table,
+    th,
+     td {
+       border: 1.5px solid black;
+       margin-right: auto;
+       margin-left: auto;
+       border-color: pink;
+   }
+   
+   p {
+       text-align: center;
+   }
+   
+   img {
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
+       width: 125px;
+       height: 100px;
+   }
+   
+   h2 {
+       text-align: center;
+   }
+   
+   #fashion h2 {
+       background-color: pink;
+       background-position: top;
+       line-height: 30px;
+       margin-top: 0em;
+       
+   }
+   
+   input[type=number] {
+       width: 30px;
+   }
+   
+   input[type=submit] {
+       margin-top: 10px;
+       display: block;
+       margin-right: auto;
+       margin-left: auto;
+   }
+   
+   #checkout label {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+   }
+   
+   input.payment {
+       width: 20em; 
+       height: 2em;
+   }
+
+   
